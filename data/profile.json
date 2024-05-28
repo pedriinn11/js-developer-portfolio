@@ -64,31 +64,5 @@
       "github": true
     }
   ],
-  "education": [
-    {
-      "name": "Ensino Médio",
-      "period": "Jan 2021 - Dez 2023",
-      "description": "Concluí o ensino médio na E.E. Professora Claudizete Lima Eleutério em 2023. De 2021 a
-      2023, enfrentei desafios como aulas online e a volta ao presencial, desenvolvendo
-      resiliência e novas habilidades. Participei de projetos e atividades que enriqueceram
-      meu aprendizado. Agora, estou pronto e animado para os próximos passos."
-    },
-    {
-      "name": "Técnico em Administração",
-      "period": "Abr 2022 - Maio 2023",
-      "description": "Concluí o curso técnico em Administração, oferecido pelo Pronatec, de abril de 2022 a
-      maio de 2023. Nesse período, desenvolvi habilidades essenciais para a área
-      administrativa, participando de projetos práticos que enriqueceram meu aprendizado.
-      Agora, estou pronto e animado para aplicar esse conhecimento em novos desafios
-      profissionais."
-    },
-    {
-      "name": "Trilhar Conectar Discover, Rocketseat",
-      "period": "Maio 2023 - Maio 2023",
-      "description": "Concluí um curso de curta duração na Rocketseat, onde aprendi bastante sobre HTML, CSS,
-      hardware e software. Esse período foi intenso e enriquecedor, proporcionando-me
-      habilidades práticas e fundamentais para o desenvolvimento web e conhecimento técnico.
-      Agora, estou pronto e animado para aplicar o que aprendi em novos desafios e projetos."
-    }
-  ]
+
 }
